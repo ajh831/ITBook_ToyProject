@@ -18,7 +18,8 @@
 - 쿠폰상세내용TB : 쿠폰 기본 템플릿을 등록할 때 쿠폰의 상세 내용이 기재되어 있는 테이블
 
 ### 2. 결제
-![image](https://github.com/ajh831/ITBook_ToyProject/assets/103026739/d856d08a-0a84-4674-b84f-316cda9024cb)
+![image](https://github.com/ajh831/ITBook_ToyProject/assets/103026739/a224533c-54ff-430b-8034-dcd4c52e30e9)
+
 
 ### 전체 구조 이미지
 ![image](https://github.com/ajh831/ITBook_ToyProject/assets/103026739/11aa8223-f979-4006-8017-9008f9e2ec56)
